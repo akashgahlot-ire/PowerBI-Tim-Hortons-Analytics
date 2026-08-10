@@ -44,7 +44,7 @@ The dataset spans stores in **Toronto (Downtown & North), Montreal, Vancouver, O
 
 A star schema was built in Power Query / Power BI to support efficient, scalable analysis:
 
-![Data Model] Dashboard Images/Data Model.png
+Dashboard Images/Data Model.png
 
 - **SalesData** (fact table) — transaction-level revenue, cost, profit, and discount
 - **DimDate** — full date hierarchy (day, day name, month, weekend flag) for time intelligence
