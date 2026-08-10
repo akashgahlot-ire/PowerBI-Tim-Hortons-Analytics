@@ -44,7 +44,9 @@ The dataset spans stores in **Toronto (Downtown & North), Montreal, Vancouver, O
 
 A star schema was built in Power Query / Power BI to support efficient, scalable analysis:
 
-Dashboard Images/Data Model.png
+<p align="center">
+<img src="Dashboard Images/Data Model.png" width="100%">
+</p>
 
 - **SalesData** (fact table) — transaction-level revenue, cost, profit, and discount
 - **DimDate** — full date hierarchy (day, day name, month, weekend flag) for time intelligence
@@ -61,22 +63,30 @@ This structure enables clean, reusable relationships across all report pages and
 ### 1. Executive Overview
 High-level KPIs (Revenue, Profit, Orders, Units Sold, Profit Margin) with revenue trends over time, revenue by store and category, and top 5 products by revenue.
 
-![Executive Overview](Dashboard%20Images/Executive_Overview_.png)
+<p align="center">
+<img src="Dashboard Images/Executive Overview .png" width="100%">
+</p>
 
 ### 2. Product & Category Analysis
 Deep dive into product-level performance — top products by revenue and profit, category revenue mix, and a full product performance summary table with margin breakdowns.
 
-![Product & Category Analysis](Dashboard%20Images/Product___Category_.png)
+<p align="center">
+<img src="Dashboard Images/Product & Category .png" width="100%">
+</p>
 
 ### 3. Customer & Sales Behavior
 Customer segmentation (new vs. returning), revenue by day of week and time of day, profit by payment method, and a 12-month customer retention trend.
 
-![Customer & Sales Behavior](Dashboard%20Images/Customer___Sales_Behavior.png)
+<p align="center">
+<img src="Dashboard Images/Customer & Sales Behavior.png" width="100%">
+</p>
 
 ### 4. Store & Geographic Analysis
 Store and regional performance comparison, revenue by province (map visual), revenue by city, and a revenue heatmap across Canadian cities.
 
-![Store & Geographic Analysis](Dashboard%20Images/Store___Geogephic_Analysis.png)
+<p align="center">
+<img src="Dashboard Images/Store & Geogephic Analysis.png" width="100%">
+</p>
 
 All pages include interactive slicers for **Month, Region, Store, Category, and Customer Type**, allowing dynamic filtering across the entire report.
 
