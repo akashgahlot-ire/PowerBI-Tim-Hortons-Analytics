@@ -89,7 +89,7 @@ Customer segmentation (new vs. returning), revenue by day of week and time of da
 Store and regional performance comparison, revenue by province (map visual), revenue by city, and a revenue heatmap across Canadian cities.
 
 <p align="center">
-<img src="Dashboard Images/Store & Geogephic Analysis.png" width="100%">
+<img src="Dashboard Images/Store & Geogephic Analysis (New).png" width="100%">
 </p>
 
 All pages include interactive slicers for **Month, Region, Store, Category, and Customer Type**, allowing dynamic filtering across the entire report.
