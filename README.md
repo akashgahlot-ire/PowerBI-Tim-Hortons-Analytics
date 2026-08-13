@@ -2,7 +2,11 @@
 
 An end-to-end Power BI project analyzing sales, profitability, customer behavior, and store performance for a simulated Tim Hortons retail network across Canada — built as a portfolio case study by **Akash Gahlot**.
 
-![Executive Overview](Dashboard%20Images/Executive_Overview_.png)
+
+
+https://github.com/user-attachments/assets/eb93741c-db6f-4c67-9ee0-7e9952cda902
+
+
 
 ---
 
